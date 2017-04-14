@@ -1,13 +1,13 @@
-﻿[[filebeat-getting-started]]
+[[filebeat-getting-started]]
 == Filebeat をはじめる
 
 To get started with your own Filebeat setup, install and configure these related products:
 
- * Elasticsearch for storage and indexing the data.
- * Kibana for the UI.
+ * Elasticsearch によるストレージとデータのインデクシング。
+ * Kibana の UI.
  * Logstash (optional) for inserting data into Elasticsearch.
 
-See {libbeat}/getting-started.html[Getting Started with Beats and the Elastic Stack] for more information.
+詳細情報は {libbeat}/getting-started.html[Getting Started with Beats and the Elastic Stack] を参照。
 
 After installing the Elastic Stack, read the following topics to learn how to install, configure, and run Filebeat:
 
@@ -22,7 +22,7 @@ After installing the Elastic Stack, read the following topics to learn how to in
 * <<directory-layout>>
 
 [[filebeat-modules-quickstart]]
-=== Quick Start for Common Log Formats
+=== Common Log Formats クイックスタート
 
 beta[]
 

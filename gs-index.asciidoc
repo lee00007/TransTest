@@ -1,4 +1,4 @@
-﻿= Filebeat Reference
+= Filebeat Reference
 
 include::../../libbeat/docs/version.asciidoc[]
 
